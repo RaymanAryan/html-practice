@@ -1,7 +1,7 @@
 {
     "livePreview.defaultPreviewPath": "/p2(Portfolio Website)/projects.html",
   "editor.parameterHints.enabled": false,
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": "off",
   "editor.inlineSuggest.enabled": false
 }
 
