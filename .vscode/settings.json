@@ -1,3 +1,8 @@
 {
-    "livePreview.defaultPreviewPath": "/p2(Portfolio Website)/projects.html"
+    "livePreview.defaultPreviewPath": "/p2(Portfolio Website)/projects.html",
+  "editor.parameterHints.enabled": false,
+  "editor.hover.enabled": false,
+  "editor.inlineSuggest.enabled": false
 }
+
+
